@@ -1,5 +1,7 @@
 # AutoResearch CLI
 
+## Warning! Not working for now. Just AI slop. Give me couple weeks please:)
+
 CLI tool to manage LLM-driven research experiments. Works alongside [Karpathy's AutoResearch](https://github.com/karpathy/autoresearch) pattern.
 
 ## Installation
